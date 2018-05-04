@@ -1,0 +1,26 @@
+A1: Erstellen Sie ein graphisches Prozessmodell und ein Datenmodell
+mit einem relationalen Schema zur Aufgabenstellung. Realisieren
+Sie das Schema in der mariaDB/mysql-Datenbank.
+
+A2: Identifizieren Sie die einzelnen Dienste (und ihre Java-Schnittstelle),
+die bei der Automatisierung des Prozesses benötigt werden.
+Erstellen Sie eine (Drei-)Schichten-Architektur der Anwendung.
+
+A3: Implementieren Sie diese Dienste und realisieren Sie den Prozess
+beispielhaft mit Testdaten, die die möglichen Abläufe des
+Prozesses (Entscheidungen) abdecken.
+
+Abschlußpräsentation und Abgabe der Dokumentation über Prozess,
+Modelle, Implementierung und Tests (ab ca. 2.7.2018, 1. PT)
+
+------------------------------------------------------------
+5_Themenstellung_AufgabenstellungenAD2:
+
+Bewerbung und Bewerbungsgespräch
+Ein Bewerber wird zu einem Vorstellungsgespräch eingeladen. Wenn der dabei vorgeschlagene
+Termin durch den Bewerber bestätigt wird, erfolgt das Gespräch mit einer kurzen Bewertung und
+Empfehlung im System, ansonsten wird ein Alternativtermin gefunden. Erscheint der Bewerber
+nicht, wird die Bewerbung abgelehnt. Nach einem Gespräch wird durch einen Mitarbeiter
+entschieden, ob der Bewerber zu einem zweiten Gespräch eingeladen wird, worauf der gleiche
+Ablauf erfolgt. Danach erfolgt eine abschließende Bewertung der Gespräche und es ergeht eine
+Absage oder Zusage an den Bewerber.
