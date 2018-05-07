@@ -1,1 +1,16 @@
 Auflistung möglicher Prozesse für das EPK:
+
+Vorstellungsgespräch [Start]
+  Einladung
+    a. Bewerber bestätigt Termin
+      I. Gespräch mit kurzer Bewertung und Empfehlung im System
+        Mitarbeiter Entscheidung Zweittermineinladung
+          1. ja erneute Einladung [Loop]
+          2. Nein Bewerbung abgelehnt [Final]
+          
+       Zweittermin:
+        abschließende Bewertung
+        Absage oder Zusage an den Bewerber            
+      II. Bewerber erscheint nicht
+        Bewerbung abgelehnt [Final]        
+     b. Alternativtermin [Loop]
